@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Practice Project in Colt Steele's class
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
